@@ -1,0 +1,27 @@
+{
+  "version": "5",
+  "dialect": "sqlite",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "5",
+      "when": 1713133383224,
+      "tag": "0000_mute_vertigo",
+      "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "5",
+      "when": 1713226970453,
+      "tag": "0001_sharp_dagger",
+      "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "5",
+      "when": 1713231066385,
+      "tag": "0002_calm_micromax",
+      "breakpoints": true
+    }
+  ]
+}
