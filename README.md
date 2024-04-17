@@ -1,4 +1,4 @@
-## Blazr : Frequency Tracker
+## Blazr 🔥 : Frequency Tracker
 
 **Stack:** React, Next.js, Tailwind, SQLite, Drizzle ORM
 
